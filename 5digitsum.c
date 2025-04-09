@@ -28,9 +28,5 @@ rem=rem%1;
 sum=sum+num;
 printf("the sum of these 5 didts is:%d\n",sum);
 
-
-
-
-
 return 0;
 }
