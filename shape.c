@@ -14,5 +14,9 @@
  printf("\n %5d %5d %-5d",a,a,a);
  printf("\n %5d %5d %-5d",b,b,b);
  printf("\n %20.4f",f);
+
+
+
+  
 return 0;
 }
