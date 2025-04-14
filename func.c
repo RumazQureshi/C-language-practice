@@ -8,5 +8,6 @@ printf("farenhite is %f ", far);
  }
 float converttemp(float celcius){
 float far = celcius * 1.8 + 32;
+    
 return far;
 }
